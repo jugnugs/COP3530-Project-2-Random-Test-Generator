@@ -1,0 +1,2 @@
+exrex==0.10.5
+python_igraph==0.8.3
