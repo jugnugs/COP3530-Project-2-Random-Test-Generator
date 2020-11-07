@@ -5,8 +5,8 @@ Generates a random graph according to the passed in vertice/edge/power iteration
 Assuming you have Python (3.6+) installed on your system and (optionally) a virtual environment set up:
 1. Clone the repo
 2. Install the required dependencies using: <br>
-`python pip install -r requirements.txt`
+`pip install -r requirements.txt`
 3. Run the script in random_graph.py using: <br>
 ` python random-graph.py <numVertices> <numEdges> <numPowerIterations>`
 > Example: `python random-graph.py 100 200 2`
-4. The resulting graph should be outputed to results.txt. You can directly paste its contents into your project's main program.
+4. The resulting graph should be outputed to <i>results.txt</i>. You can directly paste its contents into your project's main program.
